@@ -11,7 +11,7 @@ However simple, it also:
 - Runs the unit tests, and if they fail, fixes the code
 
 ## How To Use
-1. Clone the repository: `git `
+1. Clone the repository: `git clone https://github.com/stavshamir/impllmentors.git`
 2. Run `pip install -f requirements.txt`
 3. Set an `OPENAI_API_KEY` environment variable
 4. Run `python runner.py`
