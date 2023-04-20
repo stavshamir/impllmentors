@@ -134,7 +134,3 @@ Here is a summary of the reasons:
             ChatMessage.of_system('You are an experienced python software engineer.'),
             ChatMessage.of_user(prompt)
         ]).run().last_assistant_reply()
-
-
-if __name__ == '__main__':
-    Fixer('config_utils').run_tests_and_fix_if_needed()
