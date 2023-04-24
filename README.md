@@ -24,7 +24,9 @@ However simple, it also:
 
 ## Demo
 (Sorry for the low quality)
-![Demo](impllmentors.gif)
+![demo](https://github.com/stavshamir/impllmentors/blob/master/impllmentors.gif)
+
+
 
 ## Contribution
 Feel free to suggest improvements and provide PRs!
